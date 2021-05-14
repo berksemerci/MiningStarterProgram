@@ -1,0 +1,10 @@
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\bin\Debug\MiningStarterProgram.exe.config
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\bin\Debug\MiningStarterProgram.exe
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\bin\Debug\MiningStarterProgram.pdb
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.csproj.ResolveComReference.cache
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.Properties.Resources.resources
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.SelectDirectory.resources
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.csproj.GenerateResource.cache
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.exe
+C:\Users\Mini_PC\source\repos\MiningStarterProgram\MiningStarterProgram\obj\Debug\MiningStarterProgram.pdb
